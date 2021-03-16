@@ -1,4 +1,4 @@
-CONNECT-REST - Exceptionally featureful Restful web services middleware for connect / node.js
+CONNECT-REST - Exceptionally featureful Restful web services middleware for [connect](https://github.com/senchalabs/connect) / node.js
 
 [Open discussion at Discord](https://discord.gg/pjHUaMU)
 
@@ -11,7 +11,7 @@ __! Note !__ From version 3.0.0, [connect-rest](https://github.com/imrefazekas/c
 
 ========
 
-[connect-rest](https://github.com/imrefazekas/connect-rest) is a featureful very easy-to-use middleware for [connect](http://www.senchalabs.org/connect/) for building REST APIs. The library has a stunning feature list beyond basic rest functionality.
+[connect-rest](https://github.com/imrefazekas/connect-rest) is a featureful very easy-to-use middleware for [connect](https://github.com/senchalabs/connect) for building REST APIs. The library has a stunning feature list beyond basic rest functionality.
 
 Just a few examples: (far from incomplete):
 - __execution branches__: a single service can have multiple paths and handlers
@@ -32,7 +32,7 @@ __!Note__: connect-rest's concept is to provide a feature-full high-level connec
 
 # Usage
 
-The [connect-rest](https://github.com/imrefazekas/connect-rest) is a simple, yet powerful middleware for [connect](http://www.senchalabs.org/connect/), inspired by [restify](http://mcavage.github.com/node-restify/).
+The [connect-rest](https://github.com/imrefazekas/connect-rest) is a simple, yet powerful middleware for [connect](https://github.com/senchalabs/connect), inspired by [restify](http://mcavage.github.com/node-restify/).
 The aim is to give a really feature-rich tool allowing you to focus on the business logic only.
 
 
